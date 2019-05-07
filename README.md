@@ -1,8 +1,11 @@
 ### This is a rather humble project containing a basic analysis of Chicago crime data from 2001 to early 2019.
 
-The original dataset can be found at the City of Chicago website: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+The original dataset can be found at the City of Chicago website: 
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
-I also uploaded it to Zenodo: https://zenodo.org/record/2667444
+I also uploaded it to Zenodo: 
+https://zenodo.org/record/2667444
+
 Originally I was going to call to the Zenodo-hosted file, but it was too slow. Instead I have uploaded the Jupyter Notebook with all analysis already carried out, with calls to the locations of the files on my computer.
 
 Despite my references being to their counterparts on my computer, I have also uploaded the screenshots I refer to in my Notebook.
