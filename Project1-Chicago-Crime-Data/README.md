@@ -9,3 +9,5 @@ https://zenodo.org/record/2667444
 Originally I was going to call to the Zenodo-hosted file, but it was too slow. Instead I have uploaded the Jupyter Notebook with all analysis already carried out, with calls to the locations of the files on my computer.
 
 Despite my references being to their counterparts on my computer, I have also uploaded the screenshots I refer to in my Notebook.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/biof309/spring2019-solo-project-shuzhang96/tree/master/Project1-Chicago-Crime-Data/master)
