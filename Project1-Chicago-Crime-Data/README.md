@@ -1,4 +1,4 @@
-### This is a humble project containing a basic analysis of Chicago crime data from 2001 to early 2019.
+### Project 1: This is a humble project containing a basic analysis of Chicago crime data from 2001 to early 2019.
 
 The original dataset can be found at the City of Chicago website: 
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
