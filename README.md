@@ -1,5 +1,5 @@
 ### Description
-I made two mini-projects:
+I made two subprojects:
 - The first one in the folder called "Project1-Chicago-Crime-Data"
 - The second one in the folder called "Project2-Crystallographic-Conditions"
 
